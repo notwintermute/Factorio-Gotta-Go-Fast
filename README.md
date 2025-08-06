@@ -3,4 +3,4 @@ Compiles a bunch of startup settings to multiply the speed of certain processes 
 Currently includes multipliers for:  
 * Building Speed
 * Inserter Rotation Speed
-* Bot Speeds (Logistic and Construction separate)
+* Bot Speeds (Logistic and Construction)
