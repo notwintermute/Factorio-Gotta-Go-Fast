@@ -1,9 +1,0 @@
-{
-  "name": "Gotta-Go-Fast",
-  "version": "0.0.1",
-  "title": "Gotta Go Fast",
-  "author": "keyofdoor",
-  "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0"],
-  "description": "Speeds up all recipes and inserter rotation speeds to an insane degree, configurable in Mod settings. Fun for one building runs."
-}
